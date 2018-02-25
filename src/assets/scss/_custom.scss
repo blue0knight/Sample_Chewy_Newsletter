@@ -1,0 +1,89 @@
+
+.header {
+   background-color: $white;
+}
+
+.headerText {
+   color: $white;
+   text-align: center;
+   background-color: #178bee;
+   padding: 15px 0 15px;
+   margin-bottom: 0;
+}
+
+.shopNow tr {
+   margin-bottom: 50px!important;
+}
+
+.shopNow {
+ img {
+   margin: 15px auto; }
+
+ a {
+   text-transform: uppercase;}   
+
+}
+
+.leadOn {
+   h3 {
+      color: #153f79;
+      font-weight: 700;}
+}
+
+.footer img {
+      margin: 0 auto;}
+
+
+.afterSales {
+   img {
+      margin: 0 auto;
+      opacity: 0.6;
+      max-height: 25px;
+   }
+
+    p {
+      text-align: center;
+      font-size: 10px;
+      opacity: 0.6;
+      padding: 10px 0;
+    } 
+
+    .imageTable{
+       border-right: 1px solid lightgray; 
+    }
+
+}
+
+
+.addlInfo {
+   p {
+      text-align: center;
+      font-size: 10px;
+      opacity: 0.6;
+   }
+}
+
+.Unsubscribe {
+
+   margin: 0 auto;
+
+   p {
+      text-align: center;
+      font-size: 10px;
+      opacity: 0.6;
+      display: inline-block;}
+
+   p.left {
+      border-right: 2px solid gray;
+      padding-right: 5px;}
+
+   p.right {
+      padding-left: 5px;}  
+     
+}
+
+
+
+
+
+
